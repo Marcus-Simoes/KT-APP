@@ -19,9 +19,9 @@ public class Produkt {
     public String getFoto() {
         switch(this.unterkategorie) {
             case SUBKAT1:
-                return "images/example-work01.jpg";
+                return "image/Carnage.jpg";
             case SUBKAT2:
-                return "images/example-work07.jpg";
+                return "images/71eK3bIl47L._AC_SY679_.jpg";
             case SUBKAT3:
                 return "images/example-work02.jpg";
         }
